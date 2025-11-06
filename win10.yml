@@ -6,8 +6,8 @@ services:
       VERSION: "10"
       USERNAME: "MASTER"
       PASSWORD: "admin123"
-      RAM_SIZE: "4G"
-      CPU_CORES: "64"
+      RAM_SIZE: "8G"
+      CPU_CORES: "32"
       DISK_SIZE: "400G"
       DISK2_SIZE: "100G"
     devices:
